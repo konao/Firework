@@ -1,0 +1,6 @@
+＜必要な環境＞
+・TypeScript 2.3
+・Electron
+
+＜実行方法＞
+> electron .\
