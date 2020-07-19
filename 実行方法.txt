@@ -2,5 +2,12 @@
 ・TypeScript 2.3
 ・Electron
 
+＜コンパイル方法＞
+> npm install @types/node
+> code
+--> VSCode上でCTRL+SHIFT+B
+----> tscビルド tsconfig.jsonを選んで実行
+------> jsが生成される
+
 ＜実行方法＞
 > electron .\

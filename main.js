@@ -9,7 +9,7 @@ var app = electron.app;
 var BrowserWindow = electron.BrowserWindow;
 //const path = require('path');
 var url = require('url');
-var process = require('process');
+// const process = require('process');
 var mainWindow;
 function createWindow() {
     mainWindow = new BrowserWindow({ width: 960, height: 640 });
